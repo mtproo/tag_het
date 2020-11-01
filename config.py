@@ -1,4 +1,4 @@
-PORT = 443
+PORT = 3306
 
 # name -> secret (32 hex chars)
 USERS = {
@@ -24,3 +24,4 @@ TLS_DOMAIN = "www-cdn.whatsapp.net"
 
 # Tag for advertising, obtainable from @MTProxybot
 AD_TAG = "df6fff91c50a321843ed1d43c0e6ded7"
+330
