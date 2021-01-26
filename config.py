@@ -2,7 +2,7 @@ PORT = 3306
 
 # name -> secret (32 hex chars)
 USERS = {
-    "tg":  "893d8335eb98014543fdaba68a56cb5c"
+    "tg":  "32b920dffb51643028e2f6b878d4eac1"
 }
 
 MODES = {
@@ -20,7 +20,7 @@ MODES = {
 
 # The domain for TLS mode, bad clients are proxied there
 # Use random existing domain, proxy checks it on start
-TLS_DOMAIN = "www-cdn.whatsapp.net"
+TLS_DOMAIN = "w1.web.whatsapp.com"
 
 # Tag for advertising, obtainable from @MTProxybot
 AD_TAG = "df6fff91c50a321843ed1d43c0e6ded7"
