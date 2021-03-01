@@ -23,5 +23,5 @@ MODES = {
 TLS_DOMAIN = "w1.web.whatsapp.com"
 
 # Tag for advertising, obtainable from @MTProxybot
-AD_TAG = "aa6a74ce1e3b2acef42c6fe975cd13d9"
-330
+AD_TAG = "59cac1b85a6878839c6ab656abf1060e"
+
