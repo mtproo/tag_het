@@ -15,7 +15,7 @@ MODES = {
 
     # Makes the proxy even more hard to detect
     # Can be incompatible with old clients
-    "tls": true
+    "tls": True,
 }
 
 # The domain for TLS mode, bad clients are proxied there
