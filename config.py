@@ -23,5 +23,5 @@ MODES = {
 TLS_DOMAIN = "mail.google.com"
 
 # Tag for advertising, obtainable from @MTProxybot
-AD_TAG = "59cac1b85a6878839c6ab656abf1060e"
+AD_TAG = "6682cd4a97a24f67965808eba95c774a"
 
