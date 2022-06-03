@@ -2,7 +2,7 @@ PORT = 443
 
 # name -> secret (32 hex chars)
 USERS = {
-    "tg":  "00000000000000000000000000000000"
+    "tg":  "01010101010101010101010101010101"
 }
 
 MODES = {
@@ -11,7 +11,7 @@ MODES = {
 
     # Makes the proxy harder to detect
     # Can be incompatible with very old clients
-    "secure": True,
+    "secure": False,
 
     # Makes the proxy even more hard to detect
     # Can be incompatible with old clients
@@ -20,8 +20,8 @@ MODES = {
 
 # The domain for TLS mode, bad clients are proxied there
 # Use random existing domain, proxy checks it on start
-TLS_DOMAIN = "mail.google.com"
+TLS_DOMAIN = "lib.arvancloud.com"
 
 # Tag for advertising, obtainable from @MTProxybot
-AD_TAG = "8bd7c59cd625d7991b86a77dfbc5fcff"
+AD_TAG = "106b1fbbd9e008d7edb77dcef5504b96"
 
